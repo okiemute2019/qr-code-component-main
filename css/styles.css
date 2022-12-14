@@ -40,9 +40,9 @@ body {
 /* Desktop mode styles */
 @media (min-width: 400px) {
     .container {
-    margin: 10% 37.5% 15%;
+    margin: 5% 37.5% 5%;
     width: 25%;
-    height: 75%;
+    height: 80%;
 }    
 
     .container h3{
