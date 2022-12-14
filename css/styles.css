@@ -1,11 +1,11 @@
-
+/* General */
 body {
     background-color: hsl(212, 45%, 89%);
     text-align: center;
     font-family: 'Outfit',sans-serif;
 }
 
-
+/* Mobile styles */
 .container {
     background-color: hsl(0, 0%, 100%);
     margin: 20% 5%;
@@ -37,6 +37,7 @@ body {
     border-radius: 5%;
 }
 
+/* Desktop mode styles */
 @media (min-width: 400px) {
     .container {
     margin: 10% 37.5% 15%;
@@ -53,6 +54,7 @@ body {
     }
 }
 
+/* Footer */
 .attribution { 
     font-size: 11px; 
     text-align: center; }
